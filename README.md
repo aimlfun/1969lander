@@ -1,5 +1,5 @@
 # 1969lander
-AI for Jim Storer's 1969 Iconic FOCAL-C Lunar Lander game
+AI for Jim Storer's 1969 Iconic FOCAL Lunar Lander game
 
 From blog posting: https://aimlfun.com/1969-lunar-lander/
 
